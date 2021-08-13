@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ChaitanyaLKulkarni/Tower-of-Hanoi/static/css/main.ad7b7850.chunk.css",
-    "main.js": "/ChaitanyaLKulkarni/Tower-of-Hanoi/static/js/main.65eb9e1b.chunk.js",
-    "main.js.map": "/ChaitanyaLKulkarni/Tower-of-Hanoi/static/js/main.65eb9e1b.chunk.js.map",
-    "runtime-main.js": "/ChaitanyaLKulkarni/Tower-of-Hanoi/static/js/runtime-main.38643e23.js",
-    "runtime-main.js.map": "/ChaitanyaLKulkarni/Tower-of-Hanoi/static/js/runtime-main.38643e23.js.map",
-    "static/js/2.c5ff410f.chunk.js": "/ChaitanyaLKulkarni/Tower-of-Hanoi/static/js/2.c5ff410f.chunk.js",
-    "static/js/2.c5ff410f.chunk.js.map": "/ChaitanyaLKulkarni/Tower-of-Hanoi/static/js/2.c5ff410f.chunk.js.map",
-    "index.html": "/ChaitanyaLKulkarni/Tower-of-Hanoi/index.html",
-    "static/css/main.ad7b7850.chunk.css.map": "/ChaitanyaLKulkarni/Tower-of-Hanoi/static/css/main.ad7b7850.chunk.css.map",
-    "static/js/2.c5ff410f.chunk.js.LICENSE.txt": "/ChaitanyaLKulkarni/Tower-of-Hanoi/static/js/2.c5ff410f.chunk.js.LICENSE.txt"
+    "main.css": "/Tower-of-Hanoi/static/css/main.ad7b7850.chunk.css",
+    "main.js": "/Tower-of-Hanoi/static/js/main.65eb9e1b.chunk.js",
+    "main.js.map": "/Tower-of-Hanoi/static/js/main.65eb9e1b.chunk.js.map",
+    "runtime-main.js": "/Tower-of-Hanoi/static/js/runtime-main.8f0232f6.js",
+    "runtime-main.js.map": "/Tower-of-Hanoi/static/js/runtime-main.8f0232f6.js.map",
+    "static/js/2.c5ff410f.chunk.js": "/Tower-of-Hanoi/static/js/2.c5ff410f.chunk.js",
+    "static/js/2.c5ff410f.chunk.js.map": "/Tower-of-Hanoi/static/js/2.c5ff410f.chunk.js.map",
+    "index.html": "/Tower-of-Hanoi/index.html",
+    "static/css/main.ad7b7850.chunk.css.map": "/Tower-of-Hanoi/static/css/main.ad7b7850.chunk.css.map",
+    "static/js/2.c5ff410f.chunk.js.LICENSE.txt": "/Tower-of-Hanoi/static/js/2.c5ff410f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.38643e23.js",
+    "static/js/runtime-main.8f0232f6.js",
     "static/js/2.c5ff410f.chunk.js",
     "static/css/main.ad7b7850.chunk.css",
     "static/js/main.65eb9e1b.chunk.js"
